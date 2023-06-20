@@ -4,3 +4,4 @@
    - [[https://blog.csdn.net/grey_csdn/article/details/131264633][1744_Perl获取文件属性参数]]
    - [[https://blog.csdn.net/grey_csdn/article/details/131279772][1745_Perl中的switch结构]]
    - [[https://blog.csdn.net/grey_csdn/article/details/131315120][1746_Perl中面向对象的目录处理模块]]
+   - [[https://blog.csdn.net/grey_csdn/article/details/131319905][1747_Perl中实现列表筛选_grep]]
