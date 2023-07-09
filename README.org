@@ -9,3 +9,4 @@
    - [[https://blog.csdn.net/grey_csdn/article/details/131369800][1751_使用Perl进行目录的创建于删除]]
    - [[https://blog.csdn.net/grey_csdn/article/details/131405657][1752_使用Perl实现目录遍历]]
    - [[https://blog.csdn.net/grey_csdn/article/details/131425645][1753_使用Perl修改文件时间戳]]
+   - [[https://blog.csdn.net/grey_csdn/article/details/131625038][1765_Perl实现fileread功能]]
