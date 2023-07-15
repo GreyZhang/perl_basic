@@ -10,3 +10,4 @@
    - [[https://blog.csdn.net/grey_csdn/article/details/131405657][1752_使用Perl实现目录遍历]]
    - [[https://blog.csdn.net/grey_csdn/article/details/131425645][1753_使用Perl修改文件时间戳]]
    - [[https://blog.csdn.net/grey_csdn/article/details/131625038][1765_Perl实现fileread功能]]
+   - [[https://blog.csdn.net/grey_csdn/article/details/131739965][1766_perl实现readlines功能]]
